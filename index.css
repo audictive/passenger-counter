@@ -5,6 +5,7 @@ body {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-weight: bold;
   text-align: center;
+  height: 100vh;
 }
 .container {
   background: rgb(239, 239, 239);
